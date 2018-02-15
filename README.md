@@ -1,0 +1,2 @@
+# StreetCompleteJSON
+JSON for StreetComplete
