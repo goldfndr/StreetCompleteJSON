@@ -167,7 +167,7 @@
 { "key": "maxspeed:type",  "object_types": [ "way" ], "description": "Speed Limits quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/6/64/StreetComplete_quest_maxspeed.svg" },
 { "key": "shop",  "object_types": [ "node", "area", "relation" ], "description": "Opening Hours quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/f/fa/StreetComplete_quest_clock.svg" },
 { "key": "amenity", "value": "restaurant", "object_types": [ "node", "area", "relation" ], "description": "Opening Hours quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/f/fa/StreetComplete_quest_clock.svg" },
-{ "key": "amenity", "value": "café", "object_types": [ "node", "area", "relation" ], "description": "Opening Hours quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/f/fa/StreetComplete_quest_clock.svg" },
+{ "key": "amenity", "value": "cafe", "object_types": [ "node", "area", "relation" ], "description": "Opening Hours quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/f/fa/StreetComplete_quest_clock.svg" },
 { "key": "amenity", "value": "ice_cream", "object_types": [ "node", "area", "relation" ], "description": "Opening Hours quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/f/fa/StreetComplete_quest_clock.svg" },
 { "key": "amenity", "value": "fast_food", "object_types": [ "node", "area", "relation" ], "description": "Opening Hours quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/f/fa/StreetComplete_quest_clock.svg" },
 { "key": "amenity", "value": "bar", "object_types": [ "node", "area", "relation" ], "description": "Opening Hours quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/f/fa/StreetComplete_quest_clock.svg" },
@@ -693,7 +693,7 @@
 { "key": "wheelchair", "value": "no", "object_types": [ "node", "area" ], "description": "Wheelchair Access Toilets quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/2/23/StreetComplete_quest_wheelchair_green.svg" },
 { "key": "shop",  "object_types": [ "node", "area", "relation" ], "description": "Wheelchair Access Business quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/2/29/StreetComplete_quest_wheelchair.svg" },
 { "key": "amenity", "value": "restaurant", "object_types": [ "node", "area", "relation" ], "description": "Wheelchair Access Business quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/2/29/StreetComplete_quest_wheelchair.svg" },
-{ "key": "amenity", "value": "café", "object_types": [ "node", "area", "relation" ], "description": "Wheelchair Access Business quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/2/29/StreetComplete_quest_wheelchair.svg" },
+{ "key": "amenity", "value": "cafe", "object_types": [ "node", "area", "relation" ], "description": "Wheelchair Access Business quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/2/29/StreetComplete_quest_wheelchair.svg" },
 { "key": "amenity", "value": "ice_cream", "object_types": [ "node", "area", "relation" ], "description": "Wheelchair Access Business quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/2/29/StreetComplete_quest_wheelchair.svg" },
 { "key": "amenity", "value": "fast_food", "object_types": [ "node", "area", "relation" ], "description": "Wheelchair Access Business quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/2/29/StreetComplete_quest_wheelchair.svg" },
 { "key": "amenity", "value": "bar", "object_types": [ "node", "area", "relation" ], "description": "Wheelchair Access Business quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/2/29/StreetComplete_quest_wheelchair.svg" },
@@ -754,7 +754,7 @@
 { "key": "wheelchair", "value": "limited", "object_types": [ "node", "area", "relation" ], "description": "Wheelchair Access Business quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/2/29/StreetComplete_quest_wheelchair.svg" },
 { "key": "wheelchair", "value": "no", "object_types": [ "node", "area", "relation" ], "description": "Wheelchair Access Business quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/2/29/StreetComplete_quest_wheelchair.svg" },
 { "key": "amenity", "value": "restaurant", "object_types": [ "node", "area" ], "description": "Vegetarian quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/4/44/StreetComplete_quest_restaurant_vegetarian.svg" },
-{ "key": "amenity", "value": "café", "object_types": [ "node", "area" ], "description": "Vegetarian quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/4/44/StreetComplete_quest_restaurant_vegetarian.svg" },
+{ "key": "amenity", "value": "cafe", "object_types": [ "node", "area" ], "description": "Vegetarian quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/4/44/StreetComplete_quest_restaurant_vegetarian.svg" },
 { "key": "amenity", "value": "fast_food", "object_types": [ "node", "area" ], "description": "Vegetarian quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/4/44/StreetComplete_quest_restaurant_vegetarian.svg" },
 { "key": "name",  "object_types": [ "node", "area" ], "description": "Vegetarian quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/4/44/StreetComplete_quest_restaurant_vegetarian.svg" },
 { "key": "diet:vegetarian",  "object_types": [ "node", "area" ], "description": "Vegetarian quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/4/44/StreetComplete_quest_restaurant_vegetarian.svg" },
@@ -762,7 +762,7 @@
 { "key": "diet:vegetarian", "value": "no", "object_types": [ "node", "area" ], "description": "Vegetarian quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/4/44/StreetComplete_quest_restaurant_vegetarian.svg" },
 { "key": "diet:vegetarian", "value": "only", "object_types": [ "node", "area" ], "description": "Vegetarian quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/4/44/StreetComplete_quest_restaurant_vegetarian.svg" },
 { "key": "amenity", "value": "restaurant", "object_types": [ "node", "area" ], "description": "Vegan quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/a/ac/StreetComplete_quest_restaurantveg.svg" },
-{ "key": "amenity", "value": "café", "object_types": [ "node", "area" ], "description": "Vegan quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/a/ac/StreetComplete_quest_restaurantveg.svg" },
+{ "key": "amenity", "value": "cafe", "object_types": [ "node", "area" ], "description": "Vegan quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/a/ac/StreetComplete_quest_restaurantveg.svg" },
 { "key": "amenity", "value": "fast_food", "object_types": [ "node", "area" ], "description": "Vegan quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/a/ac/StreetComplete_quest_restaurantveg.svg" },
 { "key": "name",  "object_types": [ "node", "area" ], "description": "Vegan quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/a/ac/StreetComplete_quest_restaurantveg.svg" },
 { "key": "diet:vegetarian", "value": "yes", "object_types": [ "node", "area" ], "description": "Vegan quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/a/ac/StreetComplete_quest_restaurantveg.svg" },
@@ -847,6 +847,6 @@
 { "key": "backrest",  "object_types": [ "node" ], "description": "Bench Backrest quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/3/3b/Ic_quest_bench.svg" },
 { "key": "leisure", "value": "picnic_table", "object_types": [ "node" ], "description": "Bench Backrest quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/3/3b/Ic_quest_bench.svg" },
 { "key": "backrest", "value": "yes", "object_types": [ "node" ], "description": "Bench Backrest quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/3/3b/Ic_quest_bench.svg" },
-{ "key": "backrest", "value": "no", "object_types": [ "node" ], "description": "Bench Backrest quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/3/3b/Ic_quest_bench.svg" },
+{ "key": "backrest", "value": "no", "object_types": [ "node" ], "description": "Bench Backrest quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/3/3b/Ic_quest_bench.svg" }
     ]
 }
