@@ -5,6 +5,7 @@
         "name": "StreetComplete",
         "description": "Surveyor app for Android",
         "project_url": "https://github.com/westnordost/StreetComplete",
+        "doc_url": "https://wiki.openstreetmap.org/wiki/StreetComplete",
         "icon_url": "http://westnordost.de/streetcomplete/icon_16x16.png",
         "contact_name": "Richard Finegold",
         "contact_email": "goldfndr.sc@gmail.com"
