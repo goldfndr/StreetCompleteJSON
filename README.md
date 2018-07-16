@@ -1,7 +1,7 @@
 # StreetCompleteJSON
 JSON for StreetComplete
 
-Included here are files relevant to maintaining a [taginfo project](https://taginfo.openstreetmap.org/projects) for the [StreetComplete app](https://github.com/westnordost/StreetComplete); [output here](https://taginfo.openstreetmap.org/projects/streetcomplete).
+Included in [this GitHub repository](https://github.com/goldfndr/StreetCompleteJSON) are files relevant to maintaining a [taginfo project](https://taginfo.openstreetmap.org/projects) for the [StreetComplete app](https://github.com/westnordost/StreetComplete); [output here](https://taginfo.openstreetmap.org/projects/streetcomplete).
 
 ## Licensing
 The JSON file(s) and CSV file(s) and MD file(s) have a [CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) license.
