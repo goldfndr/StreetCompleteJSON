@@ -137,6 +137,7 @@
 { "key": "addr:streetnumber",  "object_types": [ "node", "area", "relation" ], "description": "House Number quest query (exclusion)", "icon_url": "https://wiki.openstreetmap.org/w/images/5/55/StreetComplete_quest_housenumber.svg" },
 { "key": "noaddress",  "object_types": [ "area", "relation" ], "description": "House Number quest query (exclusion)", "icon_url": "https://wiki.openstreetmap.org/w/images/5/55/StreetComplete_quest_housenumber.svg" },
 { "key": "location", "value": "underground", "object_types": [ "area", "relation" ], "description": "House Number quest query (exclusion)", "icon_url": "https://wiki.openstreetmap.org/w/images/5/55/StreetComplete_quest_housenumber.svg" },
+{ "key": "noaddress", "value": "yes", "object_types": [ "area", "relation" ], "description": "House Number quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/5/55/StreetComplete_quest_housenumber.svg" },
 { "key": "addr:housenumber",  "object_types": [ "area", "relation" ], "description": "House Number quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/5/55/StreetComplete_quest_housenumber.svg" },
 { "key": "addr:housename",  "object_types": [ "area", "relation" ], "description": "House Number quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/5/55/StreetComplete_quest_housenumber.svg" },
 { "key": "addr:conscriptionnumber",  "object_types": [ "area", "relation" ], "description": "House Number quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/5/55/StreetComplete_quest_housenumber.svg" },
