@@ -20,6 +20,7 @@
 { "key": "toilets", "value": "yes", "object_types": [ "node", "area" ], "description": "Baby Changing Table quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/1/1c/StreetComplete_quest_baby.svg" },
 { "key": "shop", "value": "mall", "object_types": [ "node", "area" ], "description": "Baby Changing Table quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/1/1c/StreetComplete_quest_baby.svg" },
 { "key": "shop", "value": "department_store", "object_types": [ "node", "area" ], "description": "Baby Changing Table quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/1/1c/StreetComplete_quest_baby.svg" },
+{ "key": "diaper",  "object_types": [ "node", "area" ], "description": "Baby Changing Table quest query (exclusion)", "icon_url": "https://wiki.openstreetmap.org/w/images/1/1c/StreetComplete_quest_baby.svg" },
 { "key": "diaper", "value": "yes", "object_types": [ "node", "area" ], "description": "Baby Changing Table quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/1/1c/StreetComplete_quest_baby.svg" },
 { "key": "diaper", "value": "no", "object_types": [ "node", "area" ], "description": "Baby Changing Table quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/1/1c/StreetComplete_quest_baby.svg" },
 { "key": "amenity", "value": "bicycle_parking", "object_types": [ "node", "area" ], "description": "Bike Parking Capacity quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/2/21/StreetComplete_quest_bikeparking.svg" },
@@ -875,6 +876,6 @@
 { "key": "backrest",  "object_types": [ "node" ], "description": "Bench Backrest quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/3/3b/Ic_quest_bench.svg" },
 { "key": "leisure", "value": "picnic_table", "object_types": [ "node" ], "description": "Bench Backrest quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/3/3b/Ic_quest_bench.svg" },
 { "key": "backrest", "value": "yes", "object_types": [ "node" ], "description": "Bench Backrest quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/3/3b/Ic_quest_bench.svg" },
-{ "key": "backrest", "value": "no", "object_types": [ "node" ], "description": "Bench Backrest quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/3/3b/Ic_quest_bench.svg" }
+{ "key": "backrest", "value": "no", "object_types": [ "node" ], "description": "Bench Backrest quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/3/3b/Ic_quest_bench.svg" },
     ]
 }
