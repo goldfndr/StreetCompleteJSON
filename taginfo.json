@@ -878,6 +878,7 @@
 { "key": "highway", "value": "tertiary", "object_types": [ "way" ], "description": "Cycleway quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/6/69/StreetComplete_quest_bikestreet.svg" },
 { "key": "highway", "value": "unclassified", "object_types": [ "way" ], "description": "Cycleway quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/6/69/StreetComplete_quest_bikestreet.svg" },
 { "key": "area", "value": "yes", "object_types": [ "way", "area" ], "description": "Cycleway quest query (exclusion)", "icon_url": "https://wiki.openstreetmap.org/w/images/6/69/StreetComplete_quest_bikestreet.svg" },
+{ "key": "motorroad", "value": "yes", "object_types": [ "way" ], "description": "Cycleway quest query (exclusion)", "icon_url": "https://wiki.openstreetmap.org/w/images/6/69/StreetComplete_quest_bikestreet.svg" },
 { "key": "cycleway",  "object_types": [ "way" ], "description": "Cycleway quest query (exclusion)", "icon_url": "https://wiki.openstreetmap.org/w/images/6/69/StreetComplete_quest_bikestreet.svg" },
 { "key": "cycleway:left",  "object_types": [ "way" ], "description": "Cycleway quest query (exclusion)", "icon_url": "https://wiki.openstreetmap.org/w/images/6/69/StreetComplete_quest_bikestreet.svg" },
 { "key": "cycleway:right",  "object_types": [ "way" ], "description": "Cycleway quest query (exclusion)", "icon_url": "https://wiki.openstreetmap.org/w/images/6/69/StreetComplete_quest_bikestreet.svg" },
