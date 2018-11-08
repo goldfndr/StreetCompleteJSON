@@ -1,4 +1,4 @@
-# StreetCompleteJSON
+# StreetCompleteJSON ![GitHub file size](https://img.shields.io/github/size/goldfndr/StreetCompleteJSON/taginfo.json.svg)
 JSON for StreetComplete
 
 Included in [this GitHub repository](https://github.com/goldfndr/StreetCompleteJSON) are files relevant to maintaining a [taginfo project](https://taginfo.openstreetmap.org/projects) for the [StreetComplete app](https://github.com/westnordost/StreetComplete); [output here](https://taginfo.openstreetmap.org/projects/streetcomplete).
