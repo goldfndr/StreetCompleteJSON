@@ -1704,6 +1704,11 @@
 { "key": "office", "value": "insurance", "object_types": [ "node", "area", "relation" ], "description": "Place Name quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/0/06/StreetComplete_quest_label.svg" },
 { "key": "office", "value": "estate_agent", "object_types": [ "node", "area", "relation" ], "description": "Place Name quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/0/06/StreetComplete_quest_label.svg" },
 { "key": "office", "value": "travel_agent", "object_types": [ "node", "area", "relation" ], "description": "Place Name quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/0/06/StreetComplete_quest_label.svg" },
+{ "key": "landuse", "value": "cemetery", "object_types": [ "node", "area", "relation" ], "description": "Place Name quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/0/06/StreetComplete_quest_label.svg" },
+{ "key": "landuse", "value": "allotments", "object_types": [ "node", "area", "relation" ], "description": "Place Name quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/0/06/StreetComplete_quest_label.svg" },
+{ "key": "military", "value": "airfield", "object_types": [ "node", "area", "relation" ], "description": "Place Name quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/0/06/StreetComplete_quest_label.svg" },
+{ "key": "military", "value": "barracks", "object_types": [ "node", "area", "relation" ], "description": "Place Name quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/0/06/StreetComplete_quest_label.svg" },
+{ "key": "military", "value": "training_area", "object_types": [ "node", "area", "relation" ], "description": "Place Name quest query", "icon_url": "https://wiki.openstreetmap.org/w/images/0/06/StreetComplete_quest_label.svg" },
 { "key": "noname", "value": "yes", "object_types": [ "node", "area", "relation" ], "description": "Place Name quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/0/06/StreetComplete_quest_label.svg" },
 { "key": "name",  "object_types": [ "node", "area", "relation" ], "description": "Place Name quest fill", "icon_url": "https://wiki.openstreetmap.org/w/images/0/06/StreetComplete_quest_label.svg" }
     ]
